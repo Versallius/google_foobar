@@ -1,5 +1,4 @@
 # foobar.withgoogle.com
-# some ARG
 # Level 2
 
 '''
